@@ -5,15 +5,10 @@
   纯前端工具，帮你自动生成最优配窝方案，让每一窝都出蛋。
 </p>
 
-<p align="center">
-  <a href="https://heartsarsonist.github.io/rocokingdom_egg/">🌐 在线演示</a> ·
-  <a href="https://www.bilibili.com/video/BV1X79oB1ETW/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e16eca063102daa8013a6331d9d70109">🎬 B站视频教程</a> ·
 </p>
 
 ---
 
-## 🎬 B站视频教程
-[点击观看完整演示与讲解](https://www.bilibili.com/video/BV1tF5L6bEob/?spm_id_from=333.1387.homepage.video_card.click&vd_source=e16eca063102daa8013a6331d9d70109)
 
 ---
 
@@ -31,9 +26,6 @@
 
 ## 🚀 快速开始
 
-
-git clone https://github.com/heartsarsonist/rockingdom_egg.git
-cd rockingdom_egg
 # 直接用浏览器打开 index.html，或部署到任意静态服务（如 GitHub Pages）
 
 **使用流程：**
